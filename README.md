@@ -1,5 +1,3 @@
-# Profile
-
 # Hello, World! 💻
 
 🇺🇸/🇪🇸 ENG/SPA (Chilean 🇨🇱)
