@@ -4,13 +4,16 @@
 
 🐿️ Go enthusiast
 
+💻 JavaScript dev.
+
 💁‍♂️ He/Him
 
-🎮 Currently playing only on mobile
+🎮 Mobile gaming
 
-😊 I'm working on a full free open-source Go course for novice programmers
+☕ I invite you to drink a mocha coffee
 
 ## Current reading list 📚
 
 1. The Go Programming Language (Donovan, Kernighan)
 2. Introducing Go (Doxsey)
+3. Eloquent JavaScript (Haverbeke)
